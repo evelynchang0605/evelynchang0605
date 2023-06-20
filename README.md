@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @evelynchang0605
 - 👀 I’m interested in movie watching
-- 🌱 I’m currently learning 'Kotlin' and 'Dart' to make an App
-- 🌟 I'm looking for the job title with 'Frontend Engineer'
-- 📫 How to reach me e-mail: yummy86605@gmail.com
+- 🌱 I’m currently learning 'Kotlin' and 'Flutter' to make an App
+- 🌟 I'm looking for the job title 'Frontend Engineer'
+- 📫 How to reach me an e-mail: yummy86605@gmail.com
 
 <!---
 evelynchang0605/evelynchang0605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
