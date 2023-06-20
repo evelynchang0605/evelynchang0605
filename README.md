@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evelynchang0605
 - 👀 I’m interested in movie watching
-- 🌱 I’m currently learning 'Kotlin' and 'Flutter' to make an App
+- 🌱 I’m currently learning 'Kotlin' and 'Dart' to make an App
 - 📫 How to reach me e-mail: yummy86605@gmail.com
 
 <!---
