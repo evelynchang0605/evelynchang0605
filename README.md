@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evelynchang0605
+- 👋 Hi, I’m evelyn chang
 - 👀 I’m interested in movie watching
 - 🌱 I’m currently learning 'Kotlin' and 'Flutter' to make an App
 - 🌟 I'm looking for the job title 'Frontend Engineer'
