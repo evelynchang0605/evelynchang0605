@@ -1,6 +1,6 @@
-- 👋 Hi, I’m evelyn chang
-- 👀 I’m interested in movie watching
-- 🌱 I’m currently learning 'Kotlin' and 'Java' to make an App
+- 👋 Hi, I’m Evelyn Chang
+- 👀 I’m interested in movie-watching
+- 🌱 I’m currently learning 'JavaScript' and 'Django' to make a Website   
 - 🌟 I'm looking for the job title 'Frontend Engineer'
 - 📫 How to reach me, e-mail: yummy86605@gmail.com
 
